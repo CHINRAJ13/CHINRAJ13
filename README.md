@@ -17,6 +17,7 @@ Building scalable full-stack applications with modern technologies.
 ---
 
 # 💫 About Me
+```javascript
 const chinraj = {
     location: "India 🇮🇳",
     role: "Senior MERN Stack Developer",
@@ -60,6 +61,7 @@ const chinraj = {
         "AWS"
     ]
 }
+```
 
 ---
 
