@@ -141,14 +141,14 @@ const chinraj = {
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHINRAJ13&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINRAJ13&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=CHINRAJ13&theme=tokyonight"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ const chinraj = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHINRAJ13&theme=react-dark"/>
 
 </p>
 
@@ -167,7 +167,7 @@ const chinraj = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CHINRAJ13&theme=tokyonight&column=7"/>
 
 </p>
 
@@ -222,7 +222,7 @@ const chinraj = {
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CHINRAJ13&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
